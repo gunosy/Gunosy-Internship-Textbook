@@ -6,7 +6,7 @@ Gunosy Summer Internship 2017 データ分析コース向けの事前学習用�
 ぜひインターンシップ参加前にこの教科書を参考にしっかりと準備をしておいて下さい。
 
 ### 動作環境
-本教科書はブラウザ上でデータ分析を行うことができる `Jupyter Notebook` を使用しています。Jupyter Notebookについては弊社の[ブログ](http://data.gunosy.io/entry/jupyter-tutorial)にて紹介されているので、初めて使用する方はぜひ一読して頂きたいです。
+本教科書はブラウザ上でデータ分析を行うことができる `Jupyter Notebook` を使用しています。Jupyter Notebookについては弊社の<a href="http://data.gunosy.io/entry/jupyter-tutorial" target="_blank">ブログ</a>にて紹介されているので、初めて使用する方はぜひ一読して頂きたいです。
 
 また、本ノートブック上では以下のパッケージを使用するので、予め環境構築をお願いします。
 - Python==3.5.2
