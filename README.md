@@ -26,7 +26,7 @@ Gunosy Summer Internship 2017 データ分析コース向けの事前学習用�
 
 ### ライセンス
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>の下に提供されています。<br>
-クレジッド表記例
+クレジット表記例
 ```
 Copyright 2017 <a href="https://github.com/gunosy/Gunosy-Internship-Textbook">Gunosyサマーインターンシップ教科書</a> by <a href="https://gunosy.co.jp/">Gunosy</a>
 ```
