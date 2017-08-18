@@ -3,8 +3,9 @@ Gunosy Summer Internship 2017 データ分析コース向けの事前学習用�
 
 インターンシップの３日間がより有意義になるよう、あらかじめ知っておいて欲しい知識・プログラミングについてノートブック上に教科書としてまとめました。
 この教科書を一通り実践することで、機械学習モデルの生成及び評価までの一連の流れを体得することができます。
-ぜひインターンシップ参加前にこの教科書を参考にしっかりと準備をしておいて下さい。
+ぜひインターンシップ参加前にこの教科書を参考にしっかりと準備をしておいて下さい。<br>
 
+[教科書のリンク](https://github.com/gunosy/Gunosy-Internship-Textbook/blob/master/summer_intern_textbook_2017.ipynb)
 ### 動作環境
 本教科書はブラウザ上でデータ分析を行うことができる `Jupyter Notebook` を使用しています。Jupyter Notebookについては弊社の[ブログ](http://data.gunosy.io/entry/jupyter-tutorial)にて紹介されているので、初めて使用する方はぜひ一読して頂きたいです。
 
