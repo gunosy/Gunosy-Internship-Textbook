@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+classifier_model.bin
+creditcard.csv
+resampled_train.csv
+scaler.bin
+test.csv
+train.csv
