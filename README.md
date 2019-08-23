@@ -10,12 +10,13 @@ Gunosy Summer Internship データ分析コース向けの事前学習用のテ�
 本教科書はブラウザ上でデータ分析を行うことができる `Jupyter Notebook` を使用しています。Jupyter Notebookについては弊社の[ブログ](http://data.gunosy.io/entry/jupyter-tutorial)にて紹介されているので、初めて使用する方はぜひ一読して頂きたいです。
 
 また、本ノートブック上では以下のパッケージを使用するので、予め環境構築をお願いします。
-- Python==3.5.2
-- IPython==5.1.0
-- numpy==1.11.2
-- pandas==0.20.1
-- matplotlib==2.0.2
-- seaborn==0.7.1
+- Python==3.7.4
+- IPython==7.7.0
+- numpy==1.17.0
+- pandas==0.25.1
+- matplotlib==3.1.1
+- seaborn==0.9.0
+- scikit-learn==0.21.3
 
 ### 練習問題について
 ノートブック上の合間に幾つかの練習問題を設定しています。インターン本番に向けてより理解を深めるために、ぜひ挑戦してみて下さい。
